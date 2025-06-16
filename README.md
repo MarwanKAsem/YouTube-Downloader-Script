@@ -1,9 +1,13 @@
 # YouTube Downloader (Educational Use Only)
 
 🚀 Download Smarter, Not Harder!
+
 🎧 Grab crystal-clear YouTube audio in seconds with this lightweight Python tool.
+
 🔐 Powered by OAuth 2.0 for secure, authenticated downloads — even private content (with permission)!
+
 📚 Designed for educational use, archival, and research.
+
 ⚡ Fast. Simple. Reliable. Just plug in a link and let the code do the magic.
 
 This project is a lightweight YouTube audio downloader created for **educational and archival purposes** only.
