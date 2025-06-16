@@ -26,3 +26,6 @@ It supports:
 git clone https://github.com/yourusername/youtube-downloader
 cd youtube-downloader
 pip install -r requirements.txt
+```
+“Do not share your client secrets or OAuth tokens publicly”
+
