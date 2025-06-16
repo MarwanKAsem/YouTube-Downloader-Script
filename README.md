@@ -1,6 +1,6 @@
 # YouTube Downloader (Educational Use Only)
 
-This project is a lightweight YouTube video downloader created for **educational and archival purposes** only.
+This project is a lightweight YouTube audio downloader created for **educational and archival purposes** only.
 
 It supports:
 - Downloading public YouTube videos.
@@ -15,7 +15,7 @@ It supports:
 
 ## ✨ Features
 
-- Video and audio download support
+- audio download support
 - OAuth2 login flow (secure, token-based authentication)
 - Simple CLI interface
 - Custom output formats and naming
